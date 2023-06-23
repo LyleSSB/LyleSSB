@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LyleSSB
 - 👀 I’m interested in data collecting, data prosessing, data analysis...
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on SSBs next hackathon 19.-22. september #hack4ssb2023
+- 💞️ I’m looking forward to collaborate on SSBs next hackathon 19.-22. september #hack4ssb2023
 - 📫 How to reach me : cly@ssb.no
 
 <!---
